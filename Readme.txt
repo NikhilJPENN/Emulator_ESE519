@@ -1,6 +1,3 @@
-Mugdha Bavkar  mugdhab@seas.upenn.edu
-Nikil Jamdade  jnikhil@seas.upenn.edu
-
 
 The code compiles using the following command:
 gcc emul8.c gamul.c -o emulator -lGL -lGLU -lglut -std=c99 -Wall
